@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "GIT",
-    "url": ""
+    "url": "git@github.com:jacksonmalta/react-native-fts-sqlite-library.git"
   },
   "author": "Jackson Malta",
   "license": "MIT",
