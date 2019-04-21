@@ -35,7 +35,7 @@
 
 ```javascript
 
-import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts;
+import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts';
 
 let error = null;
 
@@ -109,7 +109,7 @@ try {
 
 ```javascript
 
-import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts;
+import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts';
 
 let error = null;
 
@@ -291,7 +291,7 @@ try {
 ### Update
 
 ```javascript
-import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts;
+import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts';
 
 let error = null;
 
@@ -377,7 +377,7 @@ try {
 
 ```javascript
 
-import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts;
+import RNFtsSqliteLibrary from 'react-native-fts-sqlite-librfts';
 
 let error = null;
 
